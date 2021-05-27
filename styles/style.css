@@ -4,7 +4,8 @@
     visibility: hidden;
 }
 .inicio{
-    background-image: url(../imagenes/fondo-web-fer.jpg);
+    background-image: url(../imagenes/banner-inicio.jpg);
+    object-fit: cover;
     position: relative;
     overflow: hidden;
     width: 100%;
